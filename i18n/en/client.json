@@ -1,0 +1,37 @@
+{
+	"menu": {
+		"about": "About",
+		"service": "Service",
+		"app": "App",
+		"contact": "Contact",
+		"terms": "Terms",
+		"privacy": "Privacy",
+		"credit": "Credit",
+		"components": "UI Components",
+		"checkout": "Checkout",
+		"order": "Order",
+		"catalogue": "Catalogue"
+	},
+	"footer": {
+		"notification": {
+			"title": "Notification"
+		},
+		"settings": {
+			"title": "Settings",
+			"theme": "Theme",
+			"language": "Languages",
+			"color": "Color",
+			"effect": "Effect",
+			"bg": "Background Image"
+		},
+		"top": "Top",
+		"qr": {
+			"copy": "Copied !"
+		}
+	},
+	"etc": {
+		"dev": "Under development !",
+		"soon": "Coming soon !",
+		"ads": "Advertising area"
+	}
+}

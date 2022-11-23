@@ -1,0 +1,37 @@
+{
+	"menu": {
+		"about": "Giới Thiệu",
+		"service": "Dịch Vụ",
+		"app": "Ứng Dụng",
+		"contact": "Liên Hệ",
+		"terms": "Điều Khoản",
+		"privacy": "Bảo Mật",
+		"credit": "Danh Đề",
+		"components": "Thành Phần UI",
+		"checkout": "Thanh Toán",
+		"order": "Đơn Hàng",
+		"catalogue": "Mục Lục"
+	},
+	"footer": {
+		"notification": {
+			"title": "Thông Báo"
+		},
+		"settings": {
+			"title": "Cài Đặt",
+			"theme": "Giao Diện",
+			"language": "Ngôn Ngữ",
+			"color": "Màu Sắc",
+			"effect": "Hiệu ứng",
+			"bg": "Ảnh nền"
+		},
+		"top": "Lên Trên",
+		"qr": {
+			"copy": "Đã sao chép !"
+		}
+	},
+	"etc": {
+		"dev": "Đang phát triển !",
+		"soon": "Sắp ra mắt !",
+		"ads": "Quảng cáo"
+	}
+}

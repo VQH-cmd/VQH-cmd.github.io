@@ -1,0 +1,45 @@
+{
+	"label": {
+		"field": "Mẫu",
+		"email": "E-Mail",
+		"phone": "Điện thoại",
+		"content": "Nội dung",
+		"select": "Lựa chọn",
+		"radio": "Radio",
+		"checkbox": "Checkbox",
+		"date": "Ngày tháng năm",
+		"switch": "Bật mở",
+		"name": "Tên",
+		"subject": "Tiêu đề",
+		"message": "Nội dung"
+	},
+	"validation": {
+		"required": "Trường bắt buộc",
+		"limit": "Độ dài giá trị đã vượt quá giới hạn",
+		"email": "E-Mail không hợp lệ",
+		"number": "Chỉ chấp nhận số"
+	},
+	"placeholder": {
+		"select": "Lựa chọn...",
+		"searchEmpty": "Kết quả trống.",
+		"searchNoOpt": "Kết quả chưa khớp !"
+	},
+	"button": {
+		"check": "Kiểm tra",
+		"send": "Gửi",
+		"back": "Trở về"
+	},
+	"title": {
+		"form": "Mẫu",
+		"check": "Kiểm tra",
+		"sent": "Đã gửi"
+	},
+	"content": {
+		"sent": [
+			"Cảm ơn",
+			"đã liên hệ",
+			"VQH-cmd sẽ phản hồi lại người dùng sớm nhất có thể.",
+			"Một bản sao của lá thư này đã được gửi đến hộp thư tại địa chỉ:"
+		]
+	}
+}

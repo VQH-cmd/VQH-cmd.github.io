@@ -1,0 +1,18 @@
+{
+	"copy": "Copy The Password",
+	"copied": "Copied !",
+	"txt_pw": "The password",
+	"txt_copied": "has been copied.",
+	"save": "Save The Password",
+	"saved": "Saved Passwords",
+	"change": "Change The Password",
+	"length": "Length",
+	"customize": "Customize",
+	"filter": "Character filter",
+	"option": {
+		"lowercase": "Lowercase",
+		"uppercase": "Uppercase",
+		"number": "Numbers",
+		"symbol": "Symbols"
+	}
+}

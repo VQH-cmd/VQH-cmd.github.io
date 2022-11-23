@@ -1,0 +1,45 @@
+{
+	"label": {
+		"field": "Field",
+		"email": "E-Mail",
+		"phone": "Phone",
+		"content": "Content",
+		"select": "Select",
+		"radio": "Radio",
+		"checkbox": "Checkbox",
+		"date": "Date",
+		"switch": "Switch",
+		"name": "Name",
+		"subject": "Subject",
+		"message": "Message"
+	},
+	"validation": {
+		"required": "This Field is required",
+		"limit": "The value length has exceeded the limit",
+		"email": "Invalid email",
+		"number": "The field only accept numbers"
+	},
+	"placeholder": {
+		"select": "Select...",
+		"searchEmpty": "The result is empty.",
+		"searchNoOpt": "Results do not match !"
+	},
+	"button": {
+		"check": "Check",
+		"send": "Send",
+		"back": "Back"
+	},
+	"title": {
+		"form": "Form",
+		"check": "Checkout",
+		"sent": "Sent"
+	},
+	"content": {
+		"sent": [
+			"Thank you",
+			"for contacting",
+			"VQH-cmd shall response to you as soon as possible.",
+			"A copy of this mail has been sent to inbox at:"
+		]
+	}
+}

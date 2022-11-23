@@ -1,0 +1,34 @@
+{
+	"title": {
+		"personal": "Cá Nhân",
+		"specialize": "Chuyên Môn",
+		"skill": "Kỹ Năng"
+	},
+	"personal": {
+		"location": "Thành phố Hồ Chí Minh, Việt Nam",
+		"tag": "Freelancer, Đam mê, Nhiệt tình code",
+		"favorite": "Trừu tượng, Không gian, Khoa học, Thần học, Trí tuệ nhân tạo, Âm nhạc, Thiên nhiên, Động vật"
+	},
+	"specialize": [
+		{
+			"label": "Phát Triển",
+			"content": "HTML / CSS / JS, React, WordPress, Responsive."
+		},
+		{
+			"label": "UI / UX",
+			"content": "Landing Page, User Flow, Wireframing, Prototyping, Website."
+		},
+		{
+			"label": "Illustration",
+			"content": "Logo, Thương hiệu, Bộ nhận diện thương hiệu, Bộ biểu tượng."
+		}
+	],
+	"skill": {
+		"all": "Tất cả",
+		"language": "Ngôn ngữ",
+		"cms": "CMS & Frameworks",
+		"data": "Dữ liệu",
+		"utility": "Tiện ích",
+		"design": "Thiết kế"
+	}
+}

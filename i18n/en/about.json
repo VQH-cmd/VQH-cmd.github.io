@@ -1,0 +1,34 @@
+{
+	"title": {
+		"personal": "Personal",
+		"specialize": "Specialize",
+		"skill": "Tech Skills"
+	},
+	"personal": {
+		"location": "Ho Chi Minh city, Vietnam",
+		"tag": "Freelancer, Passionate, Enthusiasm in Coding",
+		"favorite": "Abstract, Space, Science, Theology, A.I, Music, Nature, Animals"
+	},
+	"specialize": [
+		{
+			"label": "Development",
+			"content": "HTML / CSS / JS, React, WordPress, Responsive."
+		},
+		{
+			"label": "UI / UX",
+			"content": "Landing Page, User Flow, Wireframing, Prototyping, Website."
+		},
+		{
+			"label": "Illustration",
+			"content": "Logo, Branding, Visual Identity, Icon set."
+		}
+	],
+	"skill": {
+		"all": "All",
+		"language": "Languages",
+		"cms": "CMS & Frameworks",
+		"data": "Data",
+		"utility": "Utilities",
+		"design": "Design"
+	}
+}

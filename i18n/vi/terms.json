@@ -1,0 +1,189 @@
+{
+	"prologue": {
+		"updated": "Cập nhật mới nhất:&nbsp;<span className=\"iblock fw-500 td-u\">15 Tháng 11 2022</span>",
+		"content": [
+			"Các Điều khoản sử dụng này tạo thành một thỏa thuận ràng buộc về mặt pháp lý được thực hiện giữa Người dùng,<br/>cho dù là cá nhân hay nhân danh một thực thể (\"Người dùng\") và VQH-cmd,<br />liên quan đến Người dùng truy cập và sử dụng Trang web <a href=\"/\">https://VQH-cmd.github.io</a> cũng như mọi hình thức truyền thông,<br/>kênh truyền thông, Trang web di động hoặc ứng dụng di động khác có liên quan,<br/>được liên kết hoặc được kết nối theo cách khác (gọi chung là \"Trang web\") .",
+			"Người dùng đồng ý rằng bằng cách truy cập Trang web, Người dùng đã đọc, hiểu và đồng ý bị ràng buộc bởi tất cả các Điều khoản sử dụng này.",
+			"Nếu Người dùng không đồng ý với tất cả các điều khoản sử dụng này, thì Người dùng hoàn toàn bị cấm sử dụng Trang web và Người dùng phải ngừng sử dụng ngay lập tức !",
+			"Các điều khoản và điều kiện bổ sung hoặc tài liệu có thể được đăng trên Trang web theo thời gian được kết hợp rõ ràng ở đây.",
+			"VQH-cmd bảo lưu quyền, theo quyết định của riêng VQH-cmd, để thực hiện các thay đổi hoặc sửa đổi các Điều khoản sử dụng này bất cứ lúc nào và vì bất kỳ lý do gì.",
+			"VQH-cmd sẽ thông báo cho Người dùng về bất kỳ thay đổi nào bằng cách đăng Điều khoản mới trên trang này.",
+			"Người dùng có trách nhiệm định kỳ xem lại các Điều khoản sử dụng này để được thông báo về các cập nhật.",
+			"Người dùng sẽ phải tuân theo và sẽ được coi là đã được biết và chấp nhận, những thay đổi trong mọi Điều khoản sử dụng được sửa đổi bởi việc Người dùng tiếp tục sử dụng Trang web sau khi các Điều khoản sử dụng được sửa đổi đó được đăng.",
+			"Thông tin được cung cấp trên Trang web không nhằm mục đích phân phối hoặc sử dụng bởi bất kỳ cá nhân hoặc tổ chức nào trong bất kỳ khu vực hoặc quốc gia nơi phân phối hoặc sử dụng đó sẽ trái với luật pháp hoặc quy định hoặc sẽ phải tuân theo bất kỳ yêu cầu đăng ký nào trong phạm vi quyền hạn hoặc quốc gia đó.",
+			"Theo đó, những người chọn truy cập Trang web từ các địa điểm khác sẽ tự mình làm như vậy và tự chịu trách nhiệm tuân thủ luật pháp địa phương, nếu và trong phạm vi luật pháp địa phương được áp dụng."
+		]
+	},
+	"service": {
+		"title": "Dịch Vụ",
+		"content": [
+			"Dịch vụ của VQH-cmd là giao dịch hợp đồng trực tuyến giữa Người dùng và VQH-cmd:",
+			"Dịch vụ bao gồm:&nbsp;<a href=\"/service/website\">Website</a>, <a href=\"/service/design\">Thiết kế</a>, <a href=\"service/hire\">Thuê</a>.",
+			"Người dùng có thể tạo và xem thông tin chi tiết hợp đồng trong các liên kết dịch vụ trên.",
+			"Hợp đồng chỉ có hiệu lực khi có chữ ký của hai bên !",
+			"Sau khi hợp đồng có được chữ ký và được thanh toán của hai bên, Người dùng chắc chắn sẽ có được sự hợp tác của VQH-cmd dựa theo các điều khoản mà hợp đồng đề ra."
+		]
+	},
+	"payment": {
+		"title": "Đặt hợp đồng và thanh toán",
+		"content": [
+			"VQH-cmd hỗ trợ các phương thức thanh toán sau:",
+			"Thẻ Tín Dụng/Ghi Nợ:<br/>Thanh toán qua thẻ tín dụng / ghi nợ hoặc trả góp bằng thẻ tín dụng được thực hiện thông qua kênh thanh toán của bên thứ ba và danh sách thẻ được chấp nhận phụ thuộc vào kênh thanh toán mà Người dùng đang sử dụng.",
+			"Dịch Vụ Thanh Toán Trung Gian:<br/>Thanh toán bằng Ví điện tử và dịch vụ trung gian thanh toán của các đơn vị trung gian thanh toán được tích hợp theo từng thời kỳ.",
+			"Người mua chỉ có thể thay đổi kênh thanh toán trước khi thực hiện thanh toán.",
+			"VQH-cmd không chịu trách nhiệm cũng như nghĩa vụ nào đối với bất kỳ tổn thất hoặc thiệt hại nào mà Người dùng phải chịu từ việc nhập sai thông tin thanh toán cho đơn hàng đã đặt và / hoặc sử dụng phương thức thanh toán không được liệt kê ở khoản trên.",
+			"VQH-cmd bảo lưu quyền kiểm tra tính hợp pháp quyền sử dụng phương thức thanh toán của Người dùng và có quyền đình chỉ giao dịch cho đến khi xác nhận được tính hợp pháp hoặc hủy các giao dịch liên quan nếu không thể xác nhận tính hợp pháp này."
+		]
+	},
+	"ipr": {
+		"title": "Quyền Sở Hữu Trí Tuệ",
+		"content": [
+			"Trừ khi có quy định khác, Trang web là tài sản độc quyền của VQH-cmd và tất cả mã nguồn, cơ sở dữ liệu, chức năng, phần mềm, thiết kế Trang web, âm thanh, video, văn bản, hình ảnh và đồ họa trên Trang web (gọi chung là \"Nội dung\") và các nhãn hiệu, dịch vụ nhãn hiệu và logo có trong đó (\"Nhãn hiệu\") được sở hữu hoặc kiểm soát bởi VQH-cmd hoặc được cấp phép cho VQH-cmd và được bảo vệ bởi luật bản quyền và nhãn hiệu và các quyền sở hữu trí tuệ khác và luật cạnh tranh không lành mạnh của Hoa Kỳ, luật bản quyền quốc tế, và các công ước quốc tế.",
+			"Nội dung và Nhãn hiệu được cung cấp trên Trang web chỉ dành cho thông tin và sử dụng cá nhân của Người dùng !",
+			"Trừ khi được quy định rõ ràng trong các Điều khoản sử dụng này, không một phần nào của Trang web và không có Nội dung hoặc Nhãn hiệu nào có thể được sao chép, sao chép, tổng hợp, tái bản, tải lên, đăng, hiển thị công khai, mã hóa, dịch, truyền, phân phối, bán, cấp phép hoặc mặt khác được khai thác cho bất kỳ mục đích thương mại nào, mà không có sự cho phép trước bằng văn bản của VQH-cmd.",
+			"Với điều kiện Người dùng đủ điều kiện sử dụng Trang web, Người dùng được cấp giấy phép hạn chế để truy cập và sử dụng Trang web và tải xuống hoặc in một bản sao của bất kỳ phần nào của Nội dung mà Người dùng có quyền truy cập chính xác cho cá nhân, phi thương mại sử dụng.",
+			"VQH-cmd bảo lưu tất cả các quyền không được cấp rõ ràng cho Người dùng trong và cho Trang web, Nội dung và Nhãn hiệu."
+		]
+	},
+	"user": {
+		"title": "Đại Diện Người Dùng",
+		"content": [
+			"Bằng cách sử dụng Trang web, Người dùng tuyên bố và bảo đảm rằng:",
+			"Người dùng có năng lực pháp lý và Người dùng đồng ý tuân thủ các Điều khoản sử dụng này.",
+			"Người dùng không phải là trẻ vị thành niên trong phạm vi quyền hạn mà Người dùng cư trú hoặc nếu là trẻ vị thành niên, Người dùng đã nhận được sự cho phép của phụ huynh để sử dụng Trang web.",
+			"Người dùng sẽ không truy cập Trang web thông qua các phương tiện tự động hoặc không phải là con người, cho dù thông qua bot, tập lệnh hay cách khác.",
+			"Người dùng sẽ không sử dụng Trang web cho bất kỳ mục đích bất hợp pháp hoặc trái phép nào.",
+			"Nếu Người dùng cung cấp bất kỳ thông tin nào không đúng sự thật, không chính xác, không hiện hành hoặc không đầy đủ, VQH-cmd có quyền đình chỉ, chấm dứt và từ chối bất kỳ và tất cả việc sử dụng Trang web hiện tại hoặc trong tương lai (hoặc bất kỳ phần nào trong đó)."
+		]
+	},
+	"prohibited": {
+		"title": "Các Hình Thức Sử Dụng Bị Cấm",
+		"content": [
+			"Người dùng không được truy cập hoặc sử dụng Trang cho bất kỳ mục đích nào khác ngoài mục đích VQH-cmd cung cấp Trang.",
+			"Trang web có thể không được sử dụng liên quan đến bất kỳ nỗ lực thương mại nào ngoại trừ những nỗ lực được VQH-cmd xác nhận hoặc phê duyệt cụ thể.",
+			"Là Người dùng của Trang web, Người dùng đồng ý không:",
+			"Lấy dữ liệu một cách có hệ thống hoặc nội dung khác từ Trang web để tạo hoặc biên dịch, trực tiếp hoặc gián tiếp, một bộ sưu tập, biên dịch, cơ sở dữ liệu hoặc thư mục mà không có sự cho phép bằng văn bản của VQH-cmd.",
+			"Lừa, lừa gạt hoặc đánh lừa VQH-cmd và những Người dùng khác, đặc biệt là trong mọi nỗ lực tìm hiểu thông tin tài khoản nhạy cảm như mật khẩu Người dùng.",
+			"Phá vỡ, vô hiệu hóa hoặc can thiệp vào các tính năng liên quan đến bảo mật của Trang web, bao gồm các tính năng ngăn chặn hoặc hạn chế sử dụng hoặc sao chép bất kỳ Nội dung nào hoặc thực thi các hạn chế đối với việc sử dụng Trang web và / hoặc Nội dung có trong đó.",
+			"Sử dụng bất kỳ thông tin nào có được từ Trang web để quấy rối, lạm dụng hoặc làm hại người khác.",
+			"Sử dụng không đúng cách các dịch vụ hỗ trợ của VQH-cmd hoặc gửi báo cáo sai về lạm dụng hoặc hành vi sai trái.",
+			"Sử dụng Trang web theo cách không phù hợp với bất kỳ luật hoặc quy định hiện hành nào.",
+			"Sử dụng iframe trái phép hoặc liên kết đến Trang web.",
+			"Tải lên hoặc truyền (hoặc cố gắng tải lên hoặc truyền) virus, ngựa Trojan hoặc tài liệu khác, bao gồm sử dụng quá nhiều chữ in hoa và spam (đăng liên tục văn bản lặp đi lặp lại), cản trở việc sử dụng và thưởng thức Trang web không bị gián đoạn của bất kỳ bên nào hoặc sửa đổi, làm suy yếu, phá vỡ, thay đổi hoặc can thiệp vào việc sử dụng, tính năng, chức năng, vận hành hoặc bảo trì Trang web.",
+			"Can thiệp, phá vỡ hoặc tạo gánh nặng không đáng có trên Trang web hoặc các mạng hoặc dịch vụ được kết nối với Trang web.",
+			"Cố gắng bỏ qua mọi biện pháp của Trang web được thiết kế để ngăn chặn hoặc hạn chế quyền truy cập vào Trang web hoặc bất kỳ phần nào của Trang web.",
+			"Sao chép hoặc điều chỉnh phần mềm Trang web, bao gồm nhưng không giới hạn ở Flash, PHP, HTML, JavaScript hoặc mã khác.",
+			"Giải mã, dịch ngược, phân tách hoặc thiết kế ngược bất kỳ phần mềm nào bao gồm hoặc bằng bất kỳ cách nào tạo nên một phần của Trang web.",
+			"Ngoại trừ có thể là kết quả của việc sử dụng công cụ tìm kiếm tiêu chuẩn hoặc sử dụng trình duyệt Internet, sử dụng, khởi chạy, phát triển hoặc phân phối bất kỳ hệ thống tự động nào, bao gồm nhưng không giới hạn, bất kỳ trình thu thập dữ liệu, máy móc, tiện ích gian lận, trình quét ngoại tuyến nào truy cập Trang web hoặc sử dụng hoặc khởi chạy bất kỳ tập lệnh trái phép hoặc phần mềm khác.",
+			"Sử dụng Trang web như một phần của bất kỳ nỗ lực nào để cạnh tranh với VQH-cmd hoặc sử dụng Trang web và / hoặc Nội dung cho bất kỳ nỗ lực tạo doanh thu hoặc bất kỳ doanh nghiệp thương mại nào."
+		]
+	},
+	"privacy": {
+		"title": "Chính Sách Bảo Mật",
+		"content": [
+			"VQH-cmd quan tâm đến quyền riêng tư và bảo mật dữ liệu.",
+			"Người dùng có thể xem qua <a href=\"/privacy\">Chính sách bảo mật</a> của VQH-cmd.",
+			"Khi sử dụng Trang web, Người dùng đồng ý bị ràng buộc bởi Chính sách quyền riêng tư của VQH-cmd, được tích hợp vào các Điều khoản sử dụng này."
+		]
+	},
+	"termination": {
+		"title": "Thời Hạn và Chấm Dứt",
+		"content": [
+			"Các điều khoản sử dụng này sẽ vẫn có hiệu lực đầy đủ trong khi Người dùng sử dụng Trang web.",
+			"Không giới hạn bất kỳ điều khoản nào khác về các điều khoản sử dụng này, VQH-cmd bảo lưu quyền, theo quyết định của riêng VQH-cmd và không cần thông báo hay trách nhiệm pháp lý, từ chối truy cập và sử dụng Trang web (bao gồm chặn một số địa chỉ IP nhất định) cho bất kỳ người nào vì bất kỳ lý do nào hoặc không có lý do, bao gồm nhưng không giới hạn vi phạm bất kỳ đại diện, bảo hành hoặc giao ước nào trong các điều khoản sử dụng này hoặc của bất kỳ luật hoặc quy định hiện hành nào.",
+			"VQH-cmd có thể chấm dứt việc sử dụng hoặc tham gia vào Trang web của Người dùng bất cứ lúc nào, mà không cần cảnh báo, theo quyết định của riêng VQH-cmd."
+		]
+	},
+	"modifications": {
+		"title": "Sửa đổi và Gián Đoạn",
+		"content": [
+			"VQH-cmd bảo lưu quyền thay đổi, sửa đổi hoặc xóa nội dung của Trang web bất cứ lúc nào hoặc vì bất kỳ lý do nào theo quyết định của VQH-cmd mà không cần thông báo trước.",
+			"Tuy nhiên, VQH-cmd không có nghĩa vụ phải cập nhật bất kỳ thông tin nào trên Trang web của mình.",
+			"VQH-cmd cũng có quyền sửa đổi hoặc ngừng tất cả hoặc một phần của Trang web mà không cần thông báo bất cứ lúc nào.",
+			"VQH-cmd sẽ không chịu trách nhiệm với Người dùng hoặc bất kỳ bên thứ ba nào về bất kỳ sửa đổi, thay đổi giá, đình chỉ hoặc ngừng hoạt động của Trang web.",
+			"VQH-cmd không thể đảm bảo Trang web sẽ có sẵn mọi lúc.",
+			"VQH-cmd có thể gặp sự cố phần cứng, phần mềm hoặc các sự cố khác hoặc cần thực hiện bảo trì liên quan đến Trang web, dẫn đến gián đoạn, chậm trễ hoặc lỗi.",
+			"VQH-cmd có quyền thay đổi, sửa đổi, cập nhật, tạm dừng, ngừng hoặc sửa đổi Trang web bất cứ lúc nào hoặc vì bất kỳ lý do nào mà không cần thông báo cho Người dùng.",
+			"Người dùng đồng ý rằng VQH-cmd không có bất kỳ trách nhiệm nào đối với bất kỳ tổn thất, thiệt hại hoặc bất tiện nào do Người dùng không thể truy cập hoặc sử dụng Trang trong bất kỳ thời gian ngừng hoạt động hoặc ngừng hoạt động của Trang web.",
+			"Không có điều khoản nào trong các Điều khoản sử dụng này sẽ được hiểu là bắt buộc VQH-cmd phải duy trì và hỗ trợ Trang web hoặc cung cấp bất kỳ sửa đổi, cập nhật hoặc phát hành nào liên quan."
+		]
+	},
+	"corrections": {
+		"title": "Đính Chính",
+		"content": [
+			"Có thể có thông tin trên Trang web có lỗi đánh máy, không chính xác hoặc thiếu sót, bao gồm mô tả, giá cả, tính sẵn có và nhiều thông tin khác.",
+			"VQH-cmd bảo lưu quyền sửa bất kỳ lỗi nào, không chính xác hoặc thiếu sót và thay đổi hoặc cập nhật thông tin trên Trang web bất cứ lúc nào mà không cần thông báo trước."
+		]
+	},
+	"disclaimer": {
+		"title": "Khước Từ",
+		"content": [
+			"Trang web được cung cấp trên cơ sở hiện có và có sẵn.",
+			"Người dùng đồng ý rằng việc Người dùng sử dụng Trang web và các dịch vụ của VQH-cmd sẽ phải tự chịu rủi ro.",
+			"Trong phạm vi tối đa được pháp luật cho phép, VQH-cmd từ chối mọi bảo đảm, rõ ràng hay ngụ ý, liên quan đến Trang web và việc sử dụng của Người dùng, bao gồm, nhưng không giới hạn, bảo đảm ngụ ý về tính thương mại, phù hợp cho một mục đích cụ thể và không vi phạm.",
+			"VQH-cmd không bảo đảm hoặc tuyên bố về tính chính xác hoặc đầy đủ của nội dung Trang web hoặc nội dung của bất kỳ Trang web nào được liên kết đến Trang web và VQH-cmd sẽ không chịu trách nhiệm hoặc trách nhiệm đối với bất kỳ:",
+			"Lỗi, sai sót hoặc không chính xác về nội dung và tài liệu.",
+			"Thương tích cá nhân hoặc thiệt hại tài sản, thuộc bất kỳ tính chất nào, xuất phát từ việc Người dùng truy cập và sử dụng Trang web.",
+			"Mọi quyền truy cập trái phép vào hoặc sử dụng các máy chủ bảo mật của VQH-cmd và / hoặc bất kỳ và tất cả thông tin cá nhân và / hoặc thông tin tài chính được lưu trữ trong đó.",
+			"Bất kỳ sự gián đoạn hoặc ngừng truyền đến hoặc từ Trang web.",
+			"Bất kỳ lỗi, vi rút, Trojan hoặc tương tự có thể được truyền đến hoặc thông qua Trang web bởi bất kỳ bên thứ ba nào.",
+			"Bất kỳ lỗi hoặc thiếu sót trong bất kỳ nội dung và tài liệu nào hoặc cho bất kỳ tổn thất hoặc thiệt hại dưới bất kỳ hình thức nào phát sinh do việc sử dụng bất kỳ nội dung nào được đăng, truyền hoặc có sẵn thông qua Trang web.",
+			"VQH-cmd không bảo đảm, chứng thực, bảo đảm hoặc chịu trách nhiệm cho bất kỳ sản phẩm hoặc dịch vụ nào được quảng cáo hoặc cung cấp bởi bên thứ ba thông qua Trang web, bất kỳ Trang web siêu liên kết hoặc bất kỳ Trang web hoặc ứng dụng di động nào có trong bất kỳ biểu ngữ hoặc quảng cáo nào khác, và VQH-cmd sẽ không trở thành một bên tham gia hoặc bằng mọi cách chịu trách nhiệm theo dõi mọi giao dịch giữa Người dùng và bất kỳ nhà cung cấp sản phẩm hoặc dịch vụ bên thứ ba nào.",
+			"Như với việc mua một sản phẩm hoặc dịch vụ thông qua bất kỳ phương tiện hoặc trong bất kỳ môi trường nào, Người dùng nên sử dụng phán đoán tốt nhất và thận trọng khi thích hợp."
+		]
+	},
+	"limitations": {
+		"title": "Hạn Chế Trách Nhiệm Pháp Lý",
+		"content": [
+			"Trong mọi trường hợp, VQH-cmd sẽ không chịu trách nhiệm với Người dùng hoặc bất kỳ bên thứ ba nào về các thiệt hại trực tiếp, gián tiếp, do hậu quả, mẫu mực, ngẫu nhiên, đặc biệt hoặc trừng phạt, bao gồm cả lợi nhuận. mất, mất doanh thu, mất dữ liệu hoặc các thiệt hại khác phát sinh từ việc Người dùng sử dụng Trang web, ngay cả khi VQH-cmd đã được thông báo về khả năng đó."
+		]
+	},
+	"indemnification": {
+		"title": "Bồi Thường",
+		"content": [
+			"Người dùng đồng ý bảo vệ, bồi thường và giữ cho VQH-cmd vô hại và chống lại mọi mất mát, thiệt hại, trách nhiệm, yêu cầu hoặc yêu cầu, bao gồm cả luật sư hợp lý Phí và chi phí, được thực hiện bởi bất kỳ bên thứ ba nào do hoặc phát sinh từ:",
+			"Sử dụng Trang web.",
+			"Vi phạm các Điều khoản sử dụng này.",
+			"Mọi vi phạm về các đại diện và bảo hành của Người dùng được quy định trong các Điều khoản sử dụng này.",
+			"Vi phạm quyền của bên thứ ba, bao gồm nhưng không giới hạn ở quyền sở hữu trí tuệ.",
+			"Mọi hành động gây hại công khai đối với bất kỳ Người dùng nào khác của Trang web mà Người dùng đã kết nối thông qua Trang web.",
+			"Mặc dù đã nói ở trên, VQH-cmd bảo lưu quyền, bằng chi phí của Người dùng, đảm nhận việc bảo vệ và kiểm soát độc quyền bất kỳ vấn đề nào mà Người dùng bắt buộc phải bồi thường cho VQH-cmd và Người dùng đồng ý hợp tác, bằng chi phí của mình, với sự bảo vệ của VQH-cmd đối với các khiếu nại đó.",
+			"VQH-cmd sẽ sử dụng các nỗ lực hợp lý để thông báo cho Người dùng về bất kỳ khiếu nại, hành động hoặc thủ tục nào thuộc đối tượng bồi thường này khi nhận thức được điều đó."
+		]
+	},
+	"data": {
+		"title": "Dữ Liệu Người Dùng",
+		"content": [
+			"VQH-cmd sẽ duy trì một số dữ liệu nhất định mà Người dùng truyền tải đến Trang web cho mục đích quản lý hiệu suất của Trang web, cũng như dữ liệu liên quan đến việc Người dùng sử dụng Trang web.",
+			"Mặc dù VQH-cmd thực hiện sao lưu dữ liệu thường xuyên thường xuyên, Người dùng hoàn toàn chịu trách nhiệm về tất cả dữ liệu Người dùng truyền hoặc liên quan đến bất kỳ hoạt động nào Người dùng đã thực hiện khi sử dụng Trang web.",
+			"Người dùng đồng ý rằng VQH-cmd sẽ không chịu trách nhiệm với Người dùng về bất kỳ mất mát hoặc tham nhũng của bất kỳ dữ liệu nào như vậy và Người dùng từ bỏ bất kỳ quyền hành động nào chống lại VQH-cmd phát sinh từ bất kỳ mất mát hoặc tham nhũng nào của dữ liệu đó."
+		]
+	},
+	"ects": {
+		"title": "Truyền Thông Điện Tử, Giao Dịch và Chữ Ký",
+		"content": [
+			"Truy cập Trang web, gửi cho VQH-cmd email và hoàn thành các biểu mẫu trực tuyến tạo thành thông tin liên lạc điện tử.",
+			"Người dùng đồng ý nhận thông tin liên lạc điện tử và Người dùng đồng ý rằng tất cả các thỏa thuận, thông báo, tiết lộ và thông tin liên lạc khác VQH-cmd cung cấp cho Người dùng bằng điện tử, qua email và trên Trang web, đáp ứng mọi yêu cầu pháp lý mà thông tin liên lạc đó phải được viết thành văn bản.",
+			"Người dùng đồng ý sử dụng chữ ký điện tử, hợp đồng, đơn đặt hàng và các hồ sơ khác cũng như gửi thông báo, chính sách và hồ sơ giao dịch điện tử do VQH-cmd khởi xướng hoặc hoàn thành hoặc thông qua Trang web.",
+			"Người dùng từ bỏ bất kỳ quyền hoặc yêu cầu nào theo bất kỳ đạo luật, quy định, quy tắc, pháp lệnh hoặc luật nào khác trong bất kỳ khu vực tài phán nào yêu cầu chữ ký gốc hoặc giao hoặc lưu giữ hồ sơ phi điện tử, hoặc thanh toán hoặc cấp tín dụng bằng bất kỳ phương tiện nào khác hơn phương tiện điện tử."
+		]
+	},
+	"miscellaneous": {
+		"title": "Các Điều Khoản Khác",
+		"content": [
+			"Các Điều khoản sử dụng này và bất kỳ chính sách hoặc quy tắc hoạt động nào được VQH-cmd đăng trên Trang web hoặc đối với Trang web tạo thành toàn bộ thỏa thuận và sự hiểu biết giữa Người dùng và VQH-cmd.",
+			"Việc VQH-cmd không thực hiện hoặc thực thi bất kỳ quyền hoặc quy định nào trong các Điều khoản sử dụng này sẽ không hoạt động như sự từ bỏ quyền hoặc quy định đó.",
+			"Các Điều khoản sử dụng này hoạt động đến mức tối đa được pháp luật cho phép.",
+			"VQH-cmd sẽ không chịu trách nhiệm hoặc chịu trách nhiệm cho bất kỳ mất mát, thiệt hại, chậm trễ hoặc không hành động gây ra bởi bất kỳ nguyên nhân nào ngoài tầm kiểm soát hợp lý của VQH-cmd.",
+			"Nếu bất kỳ điều khoản hoặc một phần nào trong điều khoản của các Điều khoản sử dụng này được xác định là không hợp pháp, vô hiệu hoặc không thể thực thi, thì điều khoản hoặc một phần của điều khoản đó được coi là có thể bị nghiêm trọng từ các Điều khoản sử dụng này và không ảnh hưởng đến hiệu lực và khả năng thực thi của bất kỳ điều khoản nào còn lại điều khoản.",
+			"Người dùng đồng ý rằng các Điều khoản sử dụng này sẽ không được chống lại VQH-cmd nhờ vào việc nháp chúng.",
+			"Người dùng từ bỏ bất kỳ và tất cả các biện pháp phòng vệ mà Người dùng có thể có dựa trên hình thức điện tử của các Điều khoản sử dụng này và việc các bên không ký kết để thực hiện các Điều khoản sử dụng này."
+		]
+	},
+	"contact": {
+		"title": "Liên Hệ",
+		"content": [
+			"Để giải quyết khiếu nại về Trang web hoặc nhận thêm thông tin về việc sử dụng Trang web, Xin vui lòng liên hệ với VQH-cmd tại: <a href=\"/contact\">Trang Liên Hệ</a>."
+		]
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"template": {
+		"name": "Monolith.zreact",
+		"version": {
+			"type": "Full",
+			"first": "7.5.0",
+			"latest": "7.5.0"
+		},
+		"revision": "21 October 2022",
+		"core": "webpack",
+		"repo": "https://github.com/VQH-cmd/Monolith"
+	},
+
+	"coder": {
+		"name": "VQH-cmd",
+		"website": "https://VQH-cmd.github.io"
+	}
+}

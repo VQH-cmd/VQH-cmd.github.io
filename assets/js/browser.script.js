@@ -1,1 +1,0 @@
-var ua=window.navigator.userAgent,msie=ua.indexOf("MSIE "),trident=ua.indexOf("Trident/");0<msie&&(window.location.href="/error"),0<trident&&(window.location.href="/error");

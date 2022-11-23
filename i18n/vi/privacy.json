@@ -1,0 +1,93 @@
+{
+	"prologue": {
+		"updated": "Cập nhật mới nhất:&nbsp;<span className=\"iblock fw-500 td-u\">15 Tháng 11 2022</span>",
+		"content": [
+			"<a href=\"/\">https://vqh-cmd.github.io</a>&nbsp;(\"VQH-cmd\", \"chúng tôi\" hoặc \"tôi\") cam kết bảo vệ quyền riêng tư của Người dùng.",
+			"Nếu Người dùng chọn sử dụng Dịch vụ của VQH-cmd, thì Người dùng đồng ý với việc thu thập và sử dụng thông tin liên quan đến chính sách này.",
+			"Thông tin cá nhân mà VQH-cmd thu thập được sử dụng để cung cấp và cải thiện Dịch vụ.",
+			"Thông tin cá nhân mà VQH-cmd thu thập được sử dụng để cung cấp và cải thiện Dịch vụ."
+		]
+	},
+	"icu": {
+		"title": "Thu Thập và Sử Dụng Thông Tin",
+		"content": [
+			"Để có trải nghiệm tốt hơn khi sử dụng Dịch vụ của VQH-cmd, VQH-cmd có thể yêu cầu Người dùng cung cấp cho VQH-cmd thông tin nhận dạng cá nhân nhất định, bao gồm nhưng không giới hạn tên, số điện thoại địa chỉ và địa chỉ thư điện tử của Người dùng.",
+			"Thông tin mà VQH-cmd thu thập sẽ được sử dụng để liên hệ hoặc nhận dạng Người dùng."
+		]
+	},
+	"log": {
+		"title": "Nhật Ký Dữ Liệu",
+		"content": [
+			"VQH-cmd muốn thông báo cho Người dùng rằng bất cứ khi nào Người dùng truy cập Dịch vụ của VQH-cmd, VQH-cmd sẽ thu thập thông tin mà trình duyệt của Người dùng gửi cho VQH-cmd có tên là Nhật ký dữ liệu.",
+			"Dữ liệu nhật ký này có thể bao gồm thông tin như địa chỉ Giao thức Internet (\"IP\") trên máy tính của Người dùng, phiên bản trình duyệt, các trang trong Dịch vụ của VQH-cmd mà Người dùng truy cập, thời gian và ngày Người dùng truy cập, thời gian dành cho các trang đó và các thống kê khác."
+		]
+	},
+	"cookies": {
+		"title": "Cookies",
+		"content": [
+			"Cookies là các tệp có lượng dữ liệu nhỏ thường được sử dụng một định danh duy nhất ẩn danh.",
+			"Chúng được gửi đến trình duyệt của Người dùng từ trang web mà Người dùng truy cập và được lưu trữ trên ổ cứng máy tính của Người dùng.",
+			"Trang web của VQH-cmd sử dụng các \"Cookies\" này để thu thập thông tin và cải thiện Dịch vụ của VQH-cmd.",
+			"Để biết thêm thông tin chung về cookie, vui lòng đọc <a href=\"https://www.termsfeed.com/blog/cookies/\" target=\"_blank\" rel=\"nofollow external noreferrer\">Cookies là gì</a>."
+		]
+	},
+	"service": {
+		"title": "Các Nhà Cung Cấp Dịch Vụ",
+		"content": [
+			"Trang web này chứa các liên kết đến các trang web khác không thuộc sở hữu của VQH-cmd.",
+			"Các dịch vụ của bên thứ ba được sử dụng trong trang web này chỉ sử dụng cho:",
+			"Tạo điều kiện cho Dịch vụ của VQH-cmd.",
+			"Cung cấp dịch vụ thay mặt VQH-cmd.",
+			"Thực hiện các dịch vụ liên quan đến dịch vụ.",
+			"Hỗ trợ VQH-cmd trong việc phân tích cách thức Dịch vụ của VQH-cmd được sử dụng.",
+			"VQH-cmd muốn thông báo cho Người dùng Dịch vụ của mình rằng các bên thứ ba này có quyền truy cập vào Thông tin cá nhân của Người dùng.",
+			"Lý do là để thực hiện các nhiệm vụ được giao cho họ thay mặt VQH-cmd.",
+			"Tuy nhiên, họ có nghĩa vụ không tiết lộ hoặc sử dụng thông tin cho bất kỳ mục đích nào khác.",
+			"Xin lưu ý rằng VQH-cmd không chịu trách nhiệm về các chính sách quyền riêng tư của các dịch vụ bên thứ ba.",
+			"Dưới đây là danh sách các dịch vụ của bên thứ ba được sử dụng trên trang web này.",
+			"<a target=\"_blank\" rel=\"nofollow external noreferrer\" href=\"https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement\" >GitHub</a>",
+			"<a target=\"_blank\" rel=\"nofollow external noreferrer\" href=\"https://policies.google.com/privacy\" >Google</a>",
+			"<a target=\"_blank\" rel=\"nofollow external noreferrer\" href=\"https://www.paypal.com/webapps/mpp/ua/privacy-full\" >PayPal</a>"
+		]
+	},
+	"security": {
+		"title": "Bảo Mật",
+		"content": [
+			"VQH-cmd đánh giá cao sự tin tưởng của Người dùng trong việc cung cấp cho VQH-cmd Thông tin cá nhân của Người dùng, do đó VQH-cmd đang cố gắng sử dụng các phương tiện bảo vệ thương mại có thể chấp nhận được.",
+			"Nhưng hãy nhớ rằng không có phương thức truyền qua internet, hoặc phương pháp lưu trữ điện tử nào an toàn và đáng tin cậy 100%, và VQH-cmd không thể đảm bảo tính bảo mật tuyệt đối của nó."
+		]
+	},
+	"link": {
+		"title": "Liên Kết Đến Các Trang Web Khác",
+		"content": [
+			"Dịch vụ của VQH-cmd có thể chứa các liên kết đến các trang web khác.",
+			"Nếu Người dùng nhấp vào liên kết của bên thứ ba, Người dùng sẽ được chuyển đến trang web đó.",
+			"Lưu ý rằng các trang web bên ngoài không được vận hành bởi VQH-cmd.",
+			"Do đó, VQH-cmd thực sự khuyên Người dùng nên xem lại Chính sách quyền riêng tư của các trang web này.",
+			"VQH-cmd không kiểm soát và không chịu trách nhiệm về nội dung, chính sách bảo mật hoặc thực tiễn của bất kỳ trang web hoặc dịch vụ của bên thứ ba nào."
+		]
+	},
+	"children": {
+		"title": "Chính Sách Bảo Mật Trẻ Em",
+		"content": [
+			"Dịch vụ của VQH-cmd không giải quyết bất cứ ai dưới 13 tuổi.",
+			"VQH-cmd không sử dụng dịch vụ của mình để cố tình thu hút dữ liệu từ hoặc tiếp thị cho trẻ em dưới 13 tuổi.",
+			"Trong trường hợp VQH-cmd phát hiện ra rằng một đứa trẻ nào đó dưới 13 tuổi đã cung cấp cho VQH-cmd thông tin cá nhân, VQH-cmd sẽ lập tức xóa thông tin này."
+		]
+	},
+	"changes": {
+		"title": "Những Thay Đổi Cho Chính Sách Bảo Mật Này",
+		"content": [
+			"Thỉnh thoảng VQH-cmd có thể cập nhật Chính sách bảo mật.",
+			"Vì vậy, VQH-cmd khuyên Người dùng nên xem lại trang này định kỳ để biết mọi thay đổi.",
+			"VQH-cmd sẽ thông báo cho Người dùng về bất kỳ thay đổi nào bằng cách đăng Chính sách bảo mật mới trên trang này.",
+			"Những thay đổi này có hiệu lực ngay lập tức, sau khi chúng được đăng trên trang này."
+		]
+	},
+	"contact": {
+		"title": "Liên Hệ",
+		"content": [
+			"Nếu Người dùng có bất kỳ câu hỏi hoặc đề xuất nào về Chính sách bảo mật của VQH-cmd, đừng ngần ngại liên hệ với VQH-cmd qua <a href=\"/contact\">trang Liên Hệ</a>."
+		]
+	}
+}
