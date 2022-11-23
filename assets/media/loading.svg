@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" width="120" height="60"
+	viewBox="0 0 120 60">
+	<defs>
+		<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+			<feGaussianBlur stdDeviation="3" result="blur"></feGaussianBlur>
+			<feMerge>
+				<feMergeNode in="blur"></feMergeNode>
+				<feMergeNode in="SourceGraphic"></feMergeNode>
+			</feMerge>
+		</filter>
+	</defs>
+	<path filter="url(#glow)" stroke="#0EF7D0" fill="transparent" stroke-dasharray="100" d="M92.8,23.1V12.6c0-2.9-.9-4.9-2.8-6s-5.5-1.6-10.8-1.6H38.7c-5.3,0-8.9,.5-10.8,1.6-.6,.3-1,.7-1.4,1.2,.2-.2,.4-.3,.7-.4,1.9-1.1,5.5-1.6,10.8-1.6h40.5c5.3,0,8.9,.5,10.8,1.6,1.9,1.1,2.8,3.1,2.8,6v10.1l-39.3,30.5v-11.2l-7.6-5.9h-6.5c-5.4,0-9-.5-10.8-1.6-1.9-1.1-2.8-3-2.8-6v-6.2H7.5l43.8,31.9h17.3l43.9-31.9h-19.7ZM40.4,13.3h39.6c-.1-.6-.6-1.1-1.3-1.1H39.3c-.7,0-1.3,.6-1.3,1.3v3.9c0,.6,.5,1.2,1.1,1.3v-4.1c0-.7,.5-1.3,1.3-1.3Zm-2.4,17.2c0,.6,.5,1.2,1.1,1.3v-4.1c0-.7,.6-1.3,1.3-1.3h39.6c-.1-.6-.6-1.1-1.3-1.1H39.3c-.7,0-1.3,.6-1.3,1.3v3.9Z">
+		<animate attributeName="stroke-dashoffset" dur="900ms" to="200" repeatCount="indefinite" />
+	</path>
+</svg>

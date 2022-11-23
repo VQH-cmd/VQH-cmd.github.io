@@ -1,0 +1,11 @@
+User-Agent: *
+
+Disallow: /assets/js/
+Disallow: /assets/docs/
+Disallow: /assets/img/browsers/
+Disallow: /assets/img/qr/
+Disallow: /assets/img/skills/
+Disallow: /assets/img/socials/
+Disallow: /assets/img/works/
+Disallow: /assets/img/gpay.png
+Disallow: /assets/img/loading.svg
