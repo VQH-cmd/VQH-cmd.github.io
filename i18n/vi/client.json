@@ -32,6 +32,8 @@
 	"etc": {
 		"dev": "Đang phát triển !",
 		"soon": "Sắp ra mắt !",
-		"ads": "Quảng cáo"
+		"ads": "Quảng cáo",
+		"download": "Tải xuống",
+		"format": "Định dạng"
 	}
 }

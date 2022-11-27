@@ -32,6 +32,8 @@
 	"etc": {
 		"dev": "Under development !",
 		"soon": "Coming soon !",
-		"ads": "Advertising area"
+		"ads": "Advertising area",
+		"download": "Download",
+		"format": "Format"
 	}
 }
