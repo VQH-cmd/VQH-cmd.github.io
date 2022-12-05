@@ -1,0 +1,11 @@
+{
+	"title": {
+		"type": "Phân loại",
+		"customize": "Tuỳ chỉnh",
+		"result": "Kết quả",
+		"styling": "Tạo kiểu"
+	},
+	"type": {
+		"link": "Liên kết / chữ"
+	}
+}

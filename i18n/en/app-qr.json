@@ -1,0 +1,11 @@
+{
+	"title": {
+		"type": "Type",
+		"customize": "Customize",
+		"result": "Result",
+		"styling": "Styling"
+	},
+	"type": {
+		"link": "Link / Text"
+	}
+}
