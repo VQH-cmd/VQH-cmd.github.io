@@ -3,9 +3,81 @@
 		"type": "Type",
 		"customize": "Customize",
 		"result": "Result",
-		"styling": "Styling"
+		"styling": "Styling",
+		"saved": "Saved QR Codes",
+		"saveToast": "The QR Code has been saved !",
+		"copy": "Copy Data",
+		"gen": "QR Code Generator",
+		"decode": "QR Decoder",
+		"camera": "Open Camera",
+		"upload": "Upload Image"
 	},
 	"type": {
-		"link": "Link / Text"
+		"link": "Link / Text",
+		"sns": "Social Media"
+	},
+	"label": {
+		"filename": "File Name",
+		"content": "Content",
+		"firstName": "First Name",
+		"lastName": "Last Name",
+		"mobile": "Mobile",
+		"phone": "Phone",
+		"fax": "Fax",
+		"company": "Company",
+		"job": "Job",
+		"street": "Street",
+		"city": "City",
+		"postal": "Zip Code",
+		"province": "Province",
+		"country": "Country",
+		"subject": "Subject",
+		"message": "Message",
+		"network": "Wifi Name",
+		"password": "Password",
+		"encryption": "Encryption",
+		"hidden": "Hidden",
+		"isHiddenWifi": "Is hidden wifi ?",
+		"none": "None",
+		"generate": "Generate",
+		"crypto": "Cryptocurrency",
+		"amount": "Amount",
+		"receiver": "Receiver",
+		"download": "Download",
+		"save": "Save"
+	},
+	"style": {
+		"default": "Default",
+		"square": "Square",
+		"dots": "Dots",
+		"rounded": "Rounded",
+		"extraRounded": "Extra Rounded",
+		"cornerSquare": "Corners Square",
+		"cornerDot": "Corners Dot",
+		"classy": "Classy",
+		"classyRounded": "Classy Rounded",
+		"background": "Background",
+		"image": "Image",
+		"colorSingle": "Single Color",
+		"colorGradient": "Gradient Color",
+		"gradientType": "Gradient Type",
+		"linear": "Linear",
+		"radial": "Radial",
+		"rotation": "Rotation",
+		"offset": "Color Position",
+		"remove": "Remove",
+		"add": "Add",
+		"hideBG": "Hide background dots",
+		"size": "Size",
+		"margin": "Margin"
+	},
+	"error": {
+		"limit": "The number of saved QR code has exceeded the allowed amount, please remove some !",
+		"dupe": "Duplicate File name of QR code detected, please change the File name !",
+		"noqr": "No QR code found in the image !"
+	},
+	"message": {
+		"copied01": "The data",
+		"copied02": "has been copied."
 	}
 }

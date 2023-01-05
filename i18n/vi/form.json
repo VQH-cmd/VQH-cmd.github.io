@@ -17,7 +17,9 @@
 		"required": "Trường bắt buộc",
 		"limit": "Độ dài giá trị đã vượt quá giới hạn",
 		"email": "E-Mail không hợp lệ",
-		"number": "Chỉ chấp nhận số"
+		"number": "Chỉ chấp nhận số",
+		"phone": "Số điện thoại không hợp lệ",
+		"url": "URL không hợp lệ"
 	},
 	"placeholder": {
 		"select": "Lựa chọn...",

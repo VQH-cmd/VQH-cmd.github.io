@@ -17,7 +17,9 @@
 		"required": "This Field is required",
 		"limit": "The value length has exceeded the limit",
 		"email": "Invalid email",
-		"number": "The field only accept numbers"
+		"number": "The field only accept numbers",
+		"phone": "Invalid phone number",
+		"url": "Invalid URL"
 	},
 	"placeholder": {
 		"select": "Select...",

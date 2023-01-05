@@ -3,9 +3,81 @@
 		"type": "Phân loại",
 		"customize": "Tuỳ chỉnh",
 		"result": "Kết quả",
-		"styling": "Tạo kiểu"
+		"styling": "Tạo kiểu",
+		"saved": "Mã QR Đã Lưu",
+		"saveToast": "Mã QR đã được lưu !",
+		"copy": "Sao Chép Dữ Liệu",
+		"gen": "Tạo Mã QR",
+		"decode": "Giải Mã QR",
+		"camera": "Mở Máy Ảnh Lên",
+		"upload": "Tải Hình Lên"
 	},
 	"type": {
-		"link": "Liên kết / chữ"
+		"link": "Liên kết / chữ",
+		"sns": "Truyền Thông Xã Hội"
+	},
+	"label": {
+		"filename": "Tên file",
+		"content": "Nội dung",
+		"firstName": "Họ",
+		"lastName": "Tên",
+		"mobile": "Số Di Động",
+		"phone": "Số Điện Thoại",
+		"fax": "Fax",
+		"company": "Công Ty",
+		"jop": "Công Việc",
+		"street": "Đường",
+		"city": "Thành Phố",
+		"postal": "Mã Bưu Điện",
+		"province": "Địa Bàng / Tỉnh",
+		"country": "Quốc Gia",
+		"subject": "Tiêu Đề",
+		"message": "Nội Dung",
+		"network": "Tên Wifi",
+		"password": "Mật Khẩu",
+		"encryption": "Mã Hoá",
+		"hidden": "Ẩn",
+		"isHiddenWifi": "Là wifi ẩn ?",
+		"none": "Vô định",
+		"generate": "Tạo",
+		"crypto": "Tiền Điện Tử",
+		"amount": "Số Lượng",
+		"receiver": "Người Nhận",
+		"download": "Tải",
+		"save": "Lưu"
+	},
+	"style": {
+		"default": "Mặc Định",
+		"square": "Vuông",
+		"dots": "Chấm",
+		"rounded": "Góc Tròn",
+		"extraRounded": "Góc Tròn Hơn",
+		"cornerSquare": "Góc",
+		"cornerDot": "Chấm Trong Góc",
+		"classy": "Sang Trọng",
+		"classyRounded": "Sang Hơn",
+		"background": "Nền",
+		"image": "Hình ảnh",
+		"colorSingle": "Đơn Sắc",
+		"colorGradient": "Đa Sắc",
+		"gradientType": "Loại Đa Sắc",
+		"linear": "Tuyến Tính",
+		"radial": "Xuyên Tâm",
+		"rotation": "Vòng Sắc Thái",
+		"offset": "Vị Trí Màu",
+		"remove": "Bỏ",
+		"add": "Thêm",
+		"hideBG": "Ẩn chấm nền",
+		"size": "Kích Thước",
+		"margin": "Lề"
+	},
+	"error": {
+		"limit": "Số lượng mã QR được lưu đã vượt quá số mức cho phép, phiền lòng người dùng hãy xoá một ít !",
+		"dupe": "Đã phát hiện trùng Tên file của mã QR, phiền lòng người dùng hãy thay đổi tên file !",
+		"noqr": "Không tìm thấy mã QR trong hình ảnh !"
+	},
+	"message": {
+		"copied01": "Dữ liệu",
+		"copied02": "đã được sao chép."
 	}
 }
