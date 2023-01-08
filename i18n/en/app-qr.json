@@ -1,12 +1,7 @@
 {
 	"title": {
 		"type": "Type",
-		"customize": "Customize",
-		"result": "Result",
 		"styling": "Styling",
-		"saved": "Saved QR Codes",
-		"saveToast": "The QR Code has been saved !",
-		"copy": "Copy Data",
 		"gen": "QR Code Generator",
 		"decode": "QR Decoder",
 		"camera": "Open Camera",
@@ -36,15 +31,11 @@
 		"network": "Wifi Name",
 		"password": "Password",
 		"encryption": "Encryption",
-		"hidden": "Hidden",
 		"isHiddenWifi": "Is hidden wifi ?",
 		"none": "None",
-		"generate": "Generate",
 		"crypto": "Cryptocurrency",
 		"amount": "Amount",
-		"receiver": "Receiver",
-		"download": "Download",
-		"save": "Save"
+		"receiver": "Receiver"
 	},
 	"style": {
 		"default": "Default",
@@ -65,19 +56,12 @@
 		"radial": "Radial",
 		"rotation": "Rotation",
 		"offset": "Color Position",
-		"remove": "Remove",
-		"add": "Add",
 		"hideBG": "Hide background dots",
 		"size": "Size",
 		"margin": "Margin"
 	},
 	"error": {
-		"limit": "The number of saved QR code has exceeded the allowed amount, please remove some !",
-		"dupe": "Duplicate File name of QR code detected, please change the File name !",
+		"dupe": "Duplicate File name of the data detected, please change the File name !",
 		"noqr": "No QR code found in the image !"
-	},
-	"message": {
-		"copied01": "The data",
-		"copied02": "has been copied."
 	}
 }

@@ -1,6 +1,6 @@
 {
-	"title": {
-		"ratio": "Tỉ Lệ",
-		"percent": "Phần Trăm"
-	}
+	"ratio": "Tỉ Lệ",
+	"percent": "Phần Trăm",
+	"fraction": "Phân Số",
+	"divisor": "Số Chia"
 }

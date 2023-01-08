@@ -1,0 +1,29 @@
+{
+	"label": {
+		"data": "The Data",
+		"customize": "Customize",
+		"save": "Save the Data",
+		"download": "Download",
+		"input": "Inputting",
+		"result": "Result",
+		"saved": "Saved Data",
+		"copy": "Copy the Data",
+		"change": "Change the Data",
+		"copied": "Copied !",
+		"remove": "Remove",
+		"generate": "Generate",
+		"add": "Add",
+		"hidden": "Hidden"
+	},
+	"message": {
+		"saved": "The data has been saved !",
+		"copied": [
+			"The data",
+			"has been copied."
+		]
+	},
+	"error": {
+		"limit": "The number of saved data has exceeded the allowed amount, please remove some !",
+		"dupe": "Duplicate data detected, please change the data value !"
+	}
+}

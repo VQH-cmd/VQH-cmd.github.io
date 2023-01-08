@@ -1,6 +1,6 @@
 {
-	"title": {
-		"ratio": "Ratio",
-		"percent": "Percentage"
-	}
+	"ratio": "Ratio",
+	"percent": "Percentage",
+	"fraction": "Fraction",
+	"divisor": "Divisor"
 }

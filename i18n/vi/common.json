@@ -1,0 +1,29 @@
+{
+	"label": {
+		"data": "Dữ Liệu",
+		"customize": "Tùy Chỉnh",
+		"save": "Lưu Dữ Liệu",
+		"download": "Tải Xuống",
+		"input": "Nhập Liệu",
+		"result": "Kết Quả",
+		"saved": "Dữ Liệu Đã Lưu",
+		"copy": "Sao Chép Dữ Liệu",
+		"change": "Thay Đổi Dữ Liệu",
+		"copied": "Đã Sao Chép !",
+		"remove": "Bỏ",
+		"generate": "Khởi Tạo",
+		"add": "Thêm",
+		"hidden": "Ẩn"
+	},
+	"message": {
+		"saveTost": "Dữ liệu đã được lưu !",
+		"copied": [
+			"Dữ liệu",
+			"đã được sao chép."
+		]
+	},
+	"error": {
+		"limit": "Số lượng dữ liệu đã lưu đã vượt quá dung lượng cho phép, phiền lòng người dùng hãy xoá một ít !",
+		"dupe": "Đã phát hiện trùng dữ liệu, phiền lòng người dùng hãy thay đổi giá trị dữ liệu !"
+	}
+}

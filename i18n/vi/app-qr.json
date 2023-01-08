@@ -1,12 +1,7 @@
 {
 	"title": {
 		"type": "Phân loại",
-		"customize": "Tuỳ chỉnh",
-		"result": "Kết quả",
 		"styling": "Tạo kiểu",
-		"saved": "Mã QR Đã Lưu",
-		"saveToast": "Mã QR đã được lưu !",
-		"copy": "Sao Chép Dữ Liệu",
 		"gen": "Tạo Mã QR",
 		"decode": "Giải Mã QR",
 		"camera": "Mở Máy Ảnh Lên",
@@ -36,15 +31,11 @@
 		"network": "Tên Wifi",
 		"password": "Mật Khẩu",
 		"encryption": "Mã Hoá",
-		"hidden": "Ẩn",
 		"isHiddenWifi": "Là wifi ẩn ?",
 		"none": "Vô định",
-		"generate": "Tạo",
 		"crypto": "Tiền Điện Tử",
 		"amount": "Số Lượng",
-		"receiver": "Người Nhận",
-		"download": "Tải",
-		"save": "Lưu"
+		"receiver": "Người Nhận"
 	},
 	"style": {
 		"default": "Mặc Định",
@@ -65,19 +56,12 @@
 		"radial": "Xuyên Tâm",
 		"rotation": "Vòng Sắc Thái",
 		"offset": "Vị Trí Màu",
-		"remove": "Bỏ",
-		"add": "Thêm",
 		"hideBG": "Ẩn chấm nền",
 		"size": "Kích Thước",
 		"margin": "Lề"
 	},
 	"error": {
-		"limit": "Số lượng mã QR được lưu đã vượt quá số mức cho phép, phiền lòng người dùng hãy xoá một ít !",
-		"dupe": "Đã phát hiện trùng Tên file của mã QR, phiền lòng người dùng hãy thay đổi tên file !",
+		"dupe": "Đã phát hiện trùng Tên file của dữ liệu, phiền lòng người dùng hãy thay đổi tên file !",
 		"noqr": "Không tìm thấy mã QR trong hình ảnh !"
-	},
-	"message": {
-		"copied01": "Dữ liệu",
-		"copied02": "đã được sao chép."
 	}
 }
