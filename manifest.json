@@ -4,6 +4,7 @@
 	"description": "VQH-cmd | Developer - UI/UX - Designer",
 	"scope": "/",
 	"start_url": "/",
+	"dir": "ltr",
 	"theme_color": "#0EF7D0",
 	"background_color": "#282B35",
 	"display": "standalone",
