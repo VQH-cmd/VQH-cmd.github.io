@@ -2,11 +2,43 @@
 	"name": "VQH-cmd",
 	"short_name" : "VQH-cmd",
 	"description": "VQH-cmd | Developer - UI/UX - Designer",
-	"id": "/",
+	"scope": "/",
 	"start_url": "/",
 	"theme_color": "#0EF7D0",
 	"background_color": "#282B35",
 	"display": "standalone",
+	"orientation": "any",
+	"prefer_related_applications": false,
+	"display_override": [
+		"browser",
+		"fullscreen",
+		"minimal-ui",
+		"window-controls-overlay",
+		"standalone"
+	],
+	"categories": [
+		"personalization",
+		"utilities"
+	],
+	"screenshots": [
+		{
+			"src": "/assets/media/base/screenshot.jpeg"
+		}
+	],
+	"shortcuts": [
+		{
+			"name": "VQH-cmd",
+			"short_name": "VQH-cmd",
+			"description": "VQH-cmd | Developer - UI/UX - Designer",
+			"url": "/",
+			"icons": [
+				{
+					"src": "/assets/media/base/favicon/192x192.png",
+					"sizes": "192x192"
+				}
+			]
+		}
+	],
 	"icons": [
 		{
 			"src": "/assets/media/base/favicon/36x36.png",
