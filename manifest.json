@@ -1,6 +1,7 @@
 {
 	"name": "VQH-cmd",
 	"short_name" : "VQH-cmd",
+	"iarc_rating_id": "VQH-cmd",
 	"description": "VQH-cmd | Developer - UI/UX - Designer",
 	"lang": "en",
 	"scope": "/",
