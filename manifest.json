@@ -9,15 +9,22 @@
 	"dir": "ltr",
 	"theme_color": "#0EF7D0",
 	"background_color": "#282B35",
-	"display": "standalone",
 	"orientation": "any",
 	"prefer_related_applications": false,
+	"display": "standalone",
 	"display_override": [
 		"browser",
 		"fullscreen",
 		"minimal-ui",
 		"window-controls-overlay",
 		"standalone"
+	],
+	"related_applications": [
+		{
+			"platform": "webapp",
+			"url": "https://vqh-cmd.github.io/",
+			"id": "VQH-cmd"
+		}
 	],
 	"categories": [
 		"personalization",
