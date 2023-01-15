@@ -2,6 +2,7 @@
 	"name": "VQH-cmd",
 	"short_name" : "VQH-cmd",
 	"description": "VQH-cmd | Developer - UI/UX - Designer",
+	"lang": "en",
 	"scope": "/",
 	"start_url": "/",
 	"dir": "ltr",
