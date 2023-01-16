@@ -10,7 +10,7 @@
 	"theme_color": "#0EF7D0",
 	"background_color": "#282B35",
 	"orientation": "any",
-	"prefer_related_applications": false,
+	"prefer_related_applications": true,
 	"display": "standalone",
 	"display_override": [
 		"browser",
