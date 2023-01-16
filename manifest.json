@@ -38,7 +38,7 @@
 			"name": "About",
 			"short_name": "About",
 			"description": "VQH-cmd | Developer - UI/UX - Designer",
-			"url": "/",
+			"url": "/about",
 			"icons": [
 				{
 					"src": "/assets/media/base/favicon/512x512.png",
@@ -50,7 +50,7 @@
 			"name": "Service",
 			"short_name": "Service",
 			"description": "VQH-cmd | Developer - UI/UX - Designer",
-			"url": "/",
+			"url": "/service",
 			"icons": [
 				{
 					"src": "/assets/media/base/favicon/512x512.png",
@@ -62,7 +62,7 @@
 			"name": "App",
 			"short_name": "App",
 			"description": "VQH-cmd | Developer - UI/UX - Designer",
-			"url": "/",
+			"url": "/app",
 			"icons": [
 				{
 					"src": "/assets/media/base/favicon/512x512.png",
@@ -74,7 +74,7 @@
 			"name": "Contact",
 			"short_name": "Contact",
 			"description": "VQH-cmd | Developer - UI/UX - Designer",
-			"url": "/",
+			"url": "/contact",
 			"icons": [
 				{
 					"src": "/assets/media/base/favicon/512x512.png",
