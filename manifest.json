@@ -1,7 +1,6 @@
 {
 	"name": "VQH-cmd",
 	"short_name" : "VQH-cmd",
-
 	"description": "VQH-cmd | Developer - UI/UX - Designer",
 	"lang": "en",
 	"scope": "/",
@@ -10,9 +9,15 @@
 	"theme_color": "#0EF7D0",
 	"background_color": "#282B35",
 	"orientation": "any",
-
+	"prefer_related_applications": false,
 	"display": "standalone",
-
+	"display_override": [
+		"browser",
+		"fullscreen",
+		"minimal-ui",
+		"window-controls-overlay",
+		"standalone"
+	],
 	"related_applications": [
 		{
 			"platform": "webapp",
