@@ -1,9 +1,8 @@
 {
 	"name": "VQH-cmd",
-	"short_name" : "VQH-cmd",
-	"iarc_rating_id": "VQH-cmd",
-	"description": "VQH-cmd | Developer - UI/UX - Designer",
 	"lang": "en",
+	"short_name": "VQH-cmd",
+	"description": "VQH-cmd | Developer - UI/UX - Designer",
 	"scope": "/",
 	"start_url": "/",
 	"dir": "ltr",
@@ -17,20 +16,13 @@
 		"standalone",
 		"browser"
 	],
-	"related_applications": [
-		{
-			"platform": "webapp",
-			"url": "https://vqh-cmd.github.io/",
-			"id": "VQH-cmd"
-		}
-	],
 	"categories": [
 		"personalization",
 		"utilities"
 	],
 	"screenshots": [
 		{
-			"src": "/assets/media/base/screenshot.jpeg.webp"
+			"src": "assets/media/base/screenshot.jpeg.webp"
 		}
 	],
 	"shortcuts": [
@@ -41,8 +33,9 @@
 			"url": "/about",
 			"icons": [
 				{
-					"src": "/assets/media/base/favicon/512x512.png.webp",
-					"sizes": "192x192"
+					"src": "assets/media/base/shortcut/about.png.webp",
+					"sizes": "512x512",
+					"type": "image/webp"
 				}
 			]
 		},
@@ -53,8 +46,9 @@
 			"url": "/service",
 			"icons": [
 				{
-					"src": "/assets/media/base/favicon/512x512.png.webp",
-					"sizes": "192x192"
+					"src": "assets/media/base/shortcut/service.png.webp",
+					"sizes": "512x512",
+					"type": "image/webp"
 				}
 			]
 		},
@@ -65,8 +59,9 @@
 			"url": "/app",
 			"icons": [
 				{
-					"src": "/assets/media/base/favicon/512x512.png.webp",
-					"sizes": "192x192"
+					"src": "assets/media/base/shortcut/app.png.webp",
+					"sizes": "512x512",
+					"type": "image/webp"
 				}
 			]
 		},
@@ -77,46 +72,396 @@
 			"url": "/contact",
 			"icons": [
 				{
-					"src": "/assets/media/base/favicon/512x512.png.webp",
-					"sizes": "192x192"
+					"src": "assets/media/base/shortcut/contact.png.webp",
+					"sizes": "512x512",
+					"type": "image/webp"
 				}
 			]
 		}
 	],
 	"icons": [
 		{
-			"src": "/assets/media/base/favicon/36x36.png.webp",
+			"src": "assets/media/base/favicon/16x16.png.webp",
+			"sizes": "16x16",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/20x20.png.webp",
+			"sizes": "20x20",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/24x24.png.webp",
+			"sizes": "24x24",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/29x29.png.webp",
+			"sizes": "29x29",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/30x30.png.webp",
+			"sizes": "30x30",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/32x32.png.webp",
+			"sizes": "32x32",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/36x36.png.webp",
 			"sizes": "36x36",
+			"type": "image/webp",
 			"purpose": "any"
 		},
 		{
-			"src": "/assets/media/base/favicon/48x48.png.webp",
+			"src": "assets/media/base/favicon/40x40.png.webp",
+			"sizes": "40x40",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/44x44.png.webp",
+			"sizes": "44x44",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/48x48.png.webp",
 			"sizes": "48x48",
+			"type": "image/webp",
 			"purpose": "any"
 		},
 		{
-			"src": "/assets/media/base/favicon/72x72.png.webp",
+			"src": "assets/media/base/favicon/50x50.png.webp",
+			"sizes": "50x50",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/55x55.png.webp",
+			"sizes": "55x55",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/57x57.png.webp",
+			"sizes": "57x57",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/58x58.png.webp",
+			"sizes": "58x58",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/60x60.png.webp",
+			"sizes": "60x60",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/63x63.png.webp",
+			"sizes": "63x63",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/64x64.png.webp",
+			"sizes": "64x64",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/66x66.png.webp",
+			"sizes": "66x66",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/70x70.png.webp",
+			"sizes": "70x70",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/71x71.png.webp",
+			"sizes": "71x71",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/72x72.png.webp",
 			"sizes": "72x72",
+			"type": "image/webp",
 			"purpose": "any"
 		},
 		{
-			"src": "/assets/media/base/favicon/96x96.png.webp",
+			"src": "assets/media/base/favicon/75x75.png.webp",
+			"sizes": "75x75",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/76x76.png.webp",
+			"sizes": "76x76",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/80x80.png.webp",
+			"sizes": "80x80",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/87x87.png.webp",
+			"sizes": "87x87",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/88x88.png.webp",
+			"sizes": "88x88",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/89x89.png.webp",
+			"sizes": "89x89",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/96x96.png.webp",
 			"sizes": "96x96",
+			"type": "image/webp",
 			"purpose": "any"
 		},
 		{
-			"src": "/assets/media/base/favicon/144x144.png.webp",
+			"src": "assets/media/base/favicon/100x100.png.webp",
+			"sizes": "100x100",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/107x107.png.webp",
+			"sizes": "107x107",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/114x114.png.webp",
+			"sizes": "114x114",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/120x120.png.webp",
+			"sizes": "120x120",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/128x128.png.webp",
+			"sizes": "128x128",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/142x142.png.webp",
+			"sizes": "142x142",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/144x144.png.webp",
 			"sizes": "144x144",
+			"type": "image/webp",
 			"purpose": "any"
 		},
 		{
-			"src": "/assets/media/base/favicon/192x192.png.webp",
+			"src": "assets/media/base/favicon/150x150.png.webp",
+			"sizes": "150x150",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/152x152.png.webp",
+			"sizes": "152x152",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/167x167.png.webp",
+			"sizes": "167x167",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/176x176.png.webp",
+			"sizes": "176x176",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/180x180.png.webp",
+			"sizes": "180x180",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/188x188.png.webp",
+			"sizes": "188x188",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/192x192.png.webp",
 			"sizes": "192x192",
+			"type": "image/webp",
 			"purpose": "any"
 		},
 		{
-			"src": "/assets/media/base/favicon/512x512.png.webp",
+			"src": "assets/media/base/favicon/200x200.png.webp",
+			"sizes": "200x200",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/225x225.png.webp",
+			"sizes": "225x225",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/256x256.png.webp",
+			"sizes": "256x256",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/284x284.png.webp",
+			"sizes": "284x284",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/300x300.png.webp",
+			"sizes": "300x300",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/310x310.png.webp",
+			"sizes": "310x310",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/384x384.png.webp",
+			"sizes": "384x384",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/388x388.png.webp",
+			"sizes": "388x388",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/465x465.png.webp",
+			"sizes": "465x465",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/512x512.png.webp",
 			"sizes": "512x512",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/600x600.png.webp",
+			"sizes": "600x600",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/620x620.png.webp",
+			"sizes": "620x620",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/1024x1024.png.webp",
+			"sizes": "1024x1024",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/1240x1240.png.webp",
+			"sizes": "1240x1240",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/310x150.png.webp",
+			"sizes": "310x150",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/388x188.png.webp",
+			"sizes": "388x188",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/465x225.png.webp",
+			"sizes": "465x225",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/620x300.png.webp",
+			"sizes": "620x300",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/775x375.png.webp",
+			"sizes": "775x375",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/930x450.png.webp",
+			"sizes": "930x450",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/1240x600.png.webp",
+			"sizes": "1240x600",
+			"type": "image/webp",
+			"purpose": "any"
+		},
+		{
+			"src": "assets/media/base/favicon/2480x1200.png.webp",
+			"sizes": "2480x1200",
+			"type": "image/webp",
 			"purpose": "any"
 		}
 	]
