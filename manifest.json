@@ -1,6 +1,7 @@
 {
 	"name": "VQH-cmd",
 	"short_name" : "VQH-cmd",
+	"iarc_rating_id": "VQH-cmd",
 	"description": "VQH-cmd | Developer - UI/UX - Designer",
 	"lang": "en",
 	"scope": "/",
@@ -12,11 +13,9 @@
 	"prefer_related_applications": false,
 	"display": "standalone",
 	"display_override": [
-		"browser",
-		"fullscreen",
-		"minimal-ui",
-		"window-controls-overlay",
-		"standalone"
+		"window-control-overlay",
+		"standalone",
+		"browser"
 	],
 	"related_applications": [
 		{
