@@ -30,7 +30,7 @@
 	],
 	"screenshots": [
 		{
-			"src": "/assets/media/base/screenshot.jpeg"
+			"src": "/assets/media/base/screenshot.jpeg.webp"
 		}
 	],
 	"shortcuts": [
@@ -41,7 +41,7 @@
 			"url": "/about",
 			"icons": [
 				{
-					"src": "/assets/media/base/favicon/512x512.png",
+					"src": "/assets/media/base/favicon/512x512.png.webp",
 					"sizes": "192x192"
 				}
 			]
@@ -53,7 +53,7 @@
 			"url": "/service",
 			"icons": [
 				{
-					"src": "/assets/media/base/favicon/512x512.png",
+					"src": "/assets/media/base/favicon/512x512.png.webp",
 					"sizes": "192x192"
 				}
 			]
@@ -65,7 +65,7 @@
 			"url": "/app",
 			"icons": [
 				{
-					"src": "/assets/media/base/favicon/512x512.png",
+					"src": "/assets/media/base/favicon/512x512.png.webp",
 					"sizes": "192x192"
 				}
 			]
@@ -77,7 +77,7 @@
 			"url": "/contact",
 			"icons": [
 				{
-					"src": "/assets/media/base/favicon/512x512.png",
+					"src": "/assets/media/base/favicon/512x512.png.webp",
 					"sizes": "192x192"
 				}
 			]
@@ -85,37 +85,37 @@
 	],
 	"icons": [
 		{
-			"src": "/assets/media/base/favicon/36x36.png",
+			"src": "/assets/media/base/favicon/36x36.png.webp",
 			"sizes": "36x36",
 			"purpose": "any"
 		},
 		{
-			"src": "/assets/media/base/favicon/48x48.png",
+			"src": "/assets/media/base/favicon/48x48.png.webp",
 			"sizes": "48x48",
 			"purpose": "any"
 		},
 		{
-			"src": "/assets/media/base/favicon/72x72.png",
+			"src": "/assets/media/base/favicon/72x72.png.webp",
 			"sizes": "72x72",
 			"purpose": "any"
 		},
 		{
-			"src": "/assets/media/base/favicon/96x96.png",
+			"src": "/assets/media/base/favicon/96x96.png.webp",
 			"sizes": "96x96",
 			"purpose": "any"
 		},
 		{
-			"src": "/assets/media/base/favicon/144x144.png",
+			"src": "/assets/media/base/favicon/144x144.png.webp",
 			"sizes": "144x144",
 			"purpose": "any"
 		},
 		{
-			"src": "/assets/media/base/favicon/192x192.png",
+			"src": "/assets/media/base/favicon/192x192.png.webp",
 			"sizes": "192x192",
 			"purpose": "any"
 		},
 		{
-			"src": "/assets/media/base/favicon/512x512.png",
+			"src": "/assets/media/base/favicon/512x512.png.webp",
 			"sizes": "512x512",
 			"purpose": "any"
 		}
