@@ -35,13 +35,49 @@
 	],
 	"shortcuts": [
 		{
-			"name": "VQH-cmd",
-			"short_name": "VQH-cmd",
+			"name": "About",
+			"short_name": "About",
 			"description": "VQH-cmd | Developer - UI/UX - Designer",
 			"url": "/",
 			"icons": [
 				{
-					"src": "/assets/media/base/favicon/192x192.png",
+					"src": "/assets/media/base/favicon/512x512.png",
+					"sizes": "192x192"
+				}
+			]
+		},
+		{
+			"name": "Service",
+			"short_name": "Service",
+			"description": "VQH-cmd | Developer - UI/UX - Designer",
+			"url": "/",
+			"icons": [
+				{
+					"src": "/assets/media/base/favicon/512x512.png",
+					"sizes": "192x192"
+				}
+			]
+		},
+		{
+			"name": "App",
+			"short_name": "App",
+			"description": "VQH-cmd | Developer - UI/UX - Designer",
+			"url": "/",
+			"icons": [
+				{
+					"src": "/assets/media/base/favicon/512x512.png",
+					"sizes": "192x192"
+				}
+			]
+		},
+		{
+			"name": "Contact",
+			"short_name": "Contact",
+			"description": "VQH-cmd | Developer - UI/UX - Designer",
+			"url": "/",
+			"icons": [
+				{
+					"src": "/assets/media/base/favicon/512x512.png",
 					"sizes": "192x192"
 				}
 			]
