@@ -1,5 +1,6 @@
 {
 	"menu": {
+		"home": "Trang Chính",
 		"about": "Giới Thiệu",
 		"service": "Dịch Vụ",
 		"app": "Ứng Dụng",
@@ -10,7 +11,8 @@
 		"components": "Thành Phần UI",
 		"checkout": "Thanh Toán",
 		"order": "Đơn Hàng",
-		"catalogue": "Mục Lục"
+		"catalogue": "Mục Lục",
+		"sitemap": "Sơ Đồ Website"
 	},
 	"footer": {
 		"notification": {

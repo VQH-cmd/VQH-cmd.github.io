@@ -1,5 +1,6 @@
 {
 	"menu": {
+		"home": "Home",
 		"about": "About",
 		"service": "Service",
 		"app": "App",
@@ -10,7 +11,8 @@
 		"components": "UI Components",
 		"checkout": "Checkout",
 		"order": "Order",
-		"catalogue": "Catalogue"
+		"catalogue": "Catalogue",
+		"sitemap": "Sitemap"
 	},
 	"footer": {
 		"notification": {

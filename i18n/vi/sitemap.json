@@ -1,0 +1,27 @@
+{
+	"service": {
+		"web": "Website",
+		"design": "Thiết Kế",
+		"hire": "Thuê",
+		"digital": "Sản Phẩm Kỹ Thuật Số"
+	},
+	"app": {
+		"qr": {
+			"title": "Mã QR",
+			"gen": "Tạo Mã QR",
+			"decode": "Giải Mã QR"
+		},
+		"pw": "Tạo Mật Khẩu",
+		"calc": {
+			"title": "Tính Toán",
+			"ratio": "Tỉ Lệ",
+			"percent": "Phần Trăm"
+		}
+	},
+	"info": "Thông Tin",
+	"purchase": {
+		"title": "Mua Sắm",
+		"order": "Đặt Hàng",
+		"checkout": "Thanh Toán"
+	}
+}

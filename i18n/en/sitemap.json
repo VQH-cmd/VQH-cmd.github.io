@@ -1,0 +1,27 @@
+{
+	"service": {
+		"web": "Website",
+		"design": "Design",
+		"hire": "Hire",
+		"digital": "Digital Product"
+	},
+	"app": {
+		"qr": {
+			"title": "QR Code",
+			"gen": "QR Code Generator",
+			"decode": "QR Decoder"
+		},
+		"pw": "Password Generator",
+		"calc": {
+			"title": "Calculate",
+			"ratio": "Ratio",
+			"percent": "Percentage"
+		}
+	},
+	"info": "Information",
+	"purchase": {
+		"title": "Purchase",
+		"order": "Order",
+		"checkout": "Checkout"
+	}
+}
