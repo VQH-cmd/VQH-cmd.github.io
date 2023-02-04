@@ -4,9 +4,9 @@
 		"version": {
 			"type": "Full",
 			"first": "7.5.0",
-			"latest": "7.5.0"
+			"latest": "7.6.3"
 		},
-		"revision": "21 October 2022",
+		"revision": "04 February 2023",
 		"core": "webpack",
 		"repo": "https://github.com/VQH-cmd/Monolith"
 	},
