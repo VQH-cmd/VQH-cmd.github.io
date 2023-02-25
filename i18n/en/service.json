@@ -1,3 +1,27 @@
 {
-	"legacy": "Legacy Service"
+	"legacy": "Legacy Services",
+	"web": {
+		"type": {
+			"label": "Type",
+			"list": {
+				"simple": "Simple"
+			}
+		},
+		"page": {
+			"label": "Page",
+			"list": {
+				"home": "Landing Page",
+				"page": "Page",
+				"fx": "Functional Page"
+			}
+		},
+		"etc": {
+			"ga": "Google TAG",
+			"bing": "Bing Webmaster",
+			"gAPI": "Google API",
+			"facebookAPI": "",
+			"chatbot": "Chat Bot",
+			"paypal": "PayPal"
+		}
+	}
 }

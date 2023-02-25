@@ -2,5 +2,6 @@
 	"ratio": "Ratio",
 	"percent": "Percentage",
 	"fraction": "Fraction",
-	"divisor": "Divisor"
+	"divisor": "Divisor",
+	"currency": "Currency"
 }

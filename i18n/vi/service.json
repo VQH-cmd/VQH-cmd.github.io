@@ -1,3 +1,27 @@
 {
-	"legacy": "Dịch Vụ Cũ"
+	"legacy": "Dịch Vụ Cũ",
+	"web": {
+		"type": {
+			"label": "Phân Loại",
+			"list": {
+				"simple": "Simple"
+			}
+		},
+		"page": {
+			"label": "Page",
+			"list": {
+				"home": "Landing Page",
+				"page": "Page",
+				"fx": "Functional Page"
+			}
+		},
+		"etc": {
+			"ga": "Google TAG",
+			"bing": "Bing Webmaster",
+			"gAPI": "Google API",
+			"facebookAPI": "",
+			"chatbot": "Chat Bot",
+			"paypal": "PayPal"
+		}
+	}
 }
