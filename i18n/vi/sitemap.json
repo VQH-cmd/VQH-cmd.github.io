@@ -15,13 +15,13 @@
 		"calc": {
 			"title": "Tính Toán",
 			"ratio": "Tỉ Lệ",
-			"percent": "Phần Trăm"
+			"percent": "Phần Trăm",
+			"currency": "Tiền Tệ"
 		}
 	},
 	"info": "Thông Tin",
 	"purchase": {
 		"title": "Mua Sắm",
-		"order": "Đặt Hàng",
-		"checkout": "Thanh Toán"
+		"cart": "Giỏ Hàng"
 	}
 }

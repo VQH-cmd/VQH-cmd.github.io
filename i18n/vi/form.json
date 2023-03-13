@@ -10,8 +10,13 @@
 		"date": "Ngày tháng năm",
 		"switch": "Bật mở",
 		"name": "Tên",
+		"company": "Công Ty",
 		"subject": "Tiêu đề",
-		"message": "Nội dung"
+		"message": "Nội dung",
+		"payment": {
+			"id": "ID Thanh Toán",
+			"method": "Phương Thức Thanh Toán"
+		}
 	},
 	"validation": {
 		"required": "Trường bắt buộc",
@@ -29,7 +34,10 @@
 	"button": {
 		"check": "Kiểm tra",
 		"send": "Gửi",
-		"back": "Trở về"
+		"back": "Trở về",
+		"checkout": "Kiểm Tra",
+		"cart": "Bỏ Vào Giỏ",
+		"remove": "Bỏ"
 	},
 	"title": {
 		"form": "Mẫu",
@@ -39,7 +47,10 @@
 	"content": {
 		"sent": [
 			"Cảm ơn",
-			"đã liên hệ",
+			[
+				"đã liên hệ",
+				"đã sử dụng dịch vụ"
+			],
 			"VQH-cmd sẽ phản hồi lại người dùng sớm nhất có thể.",
 			"Một bản sao của lá thư này đã được gửi đến hộp thư tại địa chỉ:"
 		]

@@ -1,27 +1,97 @@
 {
 	"legacy": "Dịch Vụ Cũ",
+	"cart": "Một mặt hàng đã được thêm vào giỏ.",
+	"summary": "Tóm Tắt",
+	"total": "Tổng Ngân Sách",
+	"add": "Thêm",
+	"budget": "Ngân Sách",
+	"qty": "Số Lượng",
+	"custom": "Tên Tuỳ Chọn",
 	"web": {
 		"type": {
-			"label": "Phân Loại",
+			"label": "Nền Tảng",
 			"list": {
-				"simple": "Simple"
+				"simple": {
+					"name": "Đơn Giản",
+					"desc": "Dành cho trang tĩnh, không có máy chủ cơ sở dữ liệu."
+				},
+				"wordpress": {
+					"desc": "Dành cho các trang động, có máy chủ cơ sở dữ liệu, blog, xác thực, quản lý người dùng/bài đăng, các chức năng phức tạp,..."
+				},
+				"node": {
+					"desc": "Dành cho các trang động, có máy chủ cơ sở dữ liệu.<br/>Xây dựng toàn bộ trang web động phức tạp từ đầu.<br/>Tương tự như WordPress, hiệu suất cao hơn và ít dư thừa hơn."
+				}
 			}
 		},
 		"page": {
-			"label": "Page",
+			"label": "Trang",
 			"list": {
-				"home": "Landing Page",
-				"page": "Page",
-				"fx": "Functional Page"
+				"home": {
+					"name": "Trang Quan Trọng",
+					"desc": "Trang đầu.<br/>Trang chủ.<br/>Trang đích."
+				},
+				"page": {
+					"name": "Trang Thường",
+					"desc": "Để hiển thị thông tin.<br/> Ví dụ: Giới thiệu, hồ sơ công ty, thông tin về sản phẩm hoặc dịch vụ cụ thể, trang điều khoản, trang bảo mật,..."
+				},
+				"fx": {
+					"name": "Trang Chức Năng",
+					"desc": "Trang phức tạp.<br/>Dùng để tính toán, tạo biểu mẫu, tạo tệp hoặc hình ảnh, API,...<br/>Ví dụ: trang liên hệ, trang chi tiết sản phẩm với hệ thống mua hàng."
+				}
 			}
 		},
 		"etc": {
-			"ga": "Google TAG",
-			"bing": "Bing Webmaster",
-			"gAPI": "Google API",
-			"facebookAPI": "",
-			"chatbot": "Chat Bot",
-			"paypal": "PayPal"
+			"label": "Bên Thứ Ba",
+			"list": {
+				"ga": {
+					"name": "Google TAG",
+					"desc": "Nhận thông tin chi tiết về trang web với Google.<br/>Trình quản lý thẻ của Google.<br/>Google Analytics.<br/>Google Search Console."
+				},
+				"bing": {
+					"name": "Bing Webmaster",
+					"desc": "Nhận thông tin chi tiết về trang web với Microsoft Bing."
+				},
+				"facebookAPI": {
+					"name": "FaceBook API",
+					"desc": "Để hiển thị bài đăng trên Instagram/FaceBook qua API."
+				},
+				"chatbot": {
+					"name": "Chat Bot",
+					"desc": "Tích hợp Dialogflow"
+				},
+				"paypal": {
+					"name": "PayPal",
+					"desc": "Tích hợp PayPal"
+				},
+				"etc": {
+					"name": "Khác...",
+					"desc": "Bất kỳ dịch vụ nào có thể được tích hợp vào trang web nếu có tài liệu."
+				}
+			}
 		}
+	},
+	"design": {
+		"web": {
+			"label": "Thiết Kế Web"
+		},
+		"logo": {
+			"list": {
+				"typography": {
+					"name": "Dạng Chữ",
+					"desc": ""
+				},
+				"iconic": {
+					"name": "Ký Tự hoặc Linh Vật",
+					"desc": ""
+				},
+				"combine": {
+					"name": "Kết Hợp",
+					"desc": "Kết hợp với dạng chữ, ký tự hoặc linh vật."
+				}
+			}
+		},
+		"icon": "Bộ Biểu Tượng",
+		"namecard": "Danh Thiếp",
+		"misc": "Brochure, Banner, Tờ Rơi, ..."
 	}
 }

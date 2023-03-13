@@ -10,8 +10,13 @@
 		"date": "Date",
 		"switch": "Switch",
 		"name": "Name",
+		"company": "Company",
 		"subject": "Subject",
-		"message": "Message"
+		"message": "Message",
+		"payment": {
+			"id": "Payment ID",
+			"method": "Payment Method"
+		}
 	},
 	"validation": {
 		"required": "This Field is required",
@@ -29,7 +34,10 @@
 	"button": {
 		"check": "Check",
 		"send": "Send",
-		"back": "Back"
+		"back": "Back",
+		"checkout": "Checkout",
+		"cart": "Add to Cart",
+		"remove": "Remove"
 	},
 	"title": {
 		"form": "Form",
@@ -39,7 +47,10 @@
 	"content": {
 		"sent": [
 			"Thank you",
-			"for contacting",
+			[
+				"for contacting",
+				"for using the service"
+			],
 			"VQH-cmd shall response to you as soon as possible.",
 			"A copy of this mail has been sent to inbox at:"
 		]

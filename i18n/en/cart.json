@@ -1,0 +1,9 @@
+{
+	"empty": {
+		"title": "Empty Cart !",
+		"desc": "The cart can be filled via:"
+	},
+	"total": "Total Budget",
+	"summary": "Summary",
+	"client": "Client Info"
+}

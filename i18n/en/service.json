@@ -1,27 +1,97 @@
 {
 	"legacy": "Legacy Services",
+	"cart": "An item has been added to cart.",
+	"summary": "Summary",
+	"total": "Total Budget",
+	"add": "Add",
+	"budget": "Budget",
+	"qty": "Quantity",
+	"custom": "Custom Name",
 	"web": {
 		"type": {
-			"label": "Type",
+			"label": "Fundamental",
 			"list": {
-				"simple": "Simple"
+				"simple": {
+					"name": "Simple",
+					"desc": "For static pages, no database server."
+				},
+				"wordpress": {
+					"desc": "For dynamic pages, has database server, blog, authentication, user/post manager, complex functions,..."
+				},
+				"node": {
+					"desc": "Dynamic pages, has database server.<br/>Build the whole complex dynamic site from scratch.<br/>Similar to WordPress, more performance and less redundancy."
+				}
 			}
 		},
 		"page": {
 			"label": "Page",
 			"list": {
-				"home": "Landing Page",
-				"page": "Page",
-				"fx": "Functional Page"
+				"home": {
+					"name": "Important Page",
+					"desc": "Front page.<br/>Home page.<br/>Landing page."
+				},
+				"page": {
+					"name": "Normal Page",
+					"desc": "For displaying information.<br/> Example: about us, company profile, information about specific product or service, terms page, privacy page,..."
+				},
+				"fx": {
+					"name": "Functional Page",
+					"desc": "Complex page.<br/>For calculating, creating form, generating file or image, API,...<br/>Example: contact page, product detail page with purchase system."
+				}
 			}
 		},
 		"etc": {
-			"ga": "Google TAG",
-			"bing": "Bing Webmaster",
-			"gAPI": "Google API",
-			"facebookAPI": "",
-			"chatbot": "Chat Bot",
-			"paypal": "PayPal"
+			"label": "Third Parties",
+			"list": {
+				"ga": {
+					"name": "Google TAG",
+					"desc": "Get insights into your site with Google.<br/>Google Tag Manager.<br/>Google Analytics.<br/>Google Search Console."
+				},
+				"bing": {
+					"name": "Bing Webmaster",
+					"desc": "Get insights into your site with Microsoft Bing."
+				},
+				"facebookAPI": {
+					"name": "FaceBook API",
+					"desc": "For displaying Instagram / FaceBook post via API."
+				},
+				"chatbot": {
+					"name": "Chat Bot",
+					"desc": "Integrating Dialogflow"
+				},
+				"paypal": {
+					"name": "PayPal",
+					"desc": "Integrating PayPal"
+				},
+				"etc": {
+					"name": "Miscellaneous...",
+					"desc": "Any service that can be integrated into the site if has document."
+				}
+			}
 		}
+	},
+	"design": {
+		"web": {
+			"label": "Web Design"
+		},
+		"logo": {
+			"list": {
+				"typography": {
+					"name": "Typography",
+					"desc": ""
+				},
+				"iconic": {
+					"name": "Iconic or Mascot",
+					"desc": ""
+				},
+				"combine": {
+					"name": "Combine",
+					"desc": "Combine with Typography, Iconic or Mascot."
+				}
+			}
+		},
+		"icon": "Icon Set",
+		"namecard": "Name Card",
+		"misc": "Brochure, Banner, Flyer,..."
 	}
 }

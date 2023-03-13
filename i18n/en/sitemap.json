@@ -15,13 +15,13 @@
 		"calc": {
 			"title": "Calculate",
 			"ratio": "Ratio",
-			"percent": "Percentage"
+			"percent": "Percentage",
+			"currency": "Currency"
 		}
 	},
 	"info": "Information",
 	"purchase": {
 		"title": "Purchase",
-		"order": "Order",
-		"checkout": "Checkout"
+		"cart": "Cart"
 	}
 }
