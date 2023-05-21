@@ -1,1 +1,1 @@
-!function(){"use strict";var e=!!document.documentMode,t=document.getElementById("loader"),d=document.getElementById("ie");e&&(null==t||t.classList.add("q1"),null==d||d.classList.add("q1"))}();
+!function(){"use strict";const e=!!document.documentMode,t=document.getElementById("loader"),d=document.getElementById("ie");e&&(t?.classList.add("q1"),d?.classList.add("q1"))}();
